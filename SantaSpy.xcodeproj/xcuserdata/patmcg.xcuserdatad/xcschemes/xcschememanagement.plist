@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Distribution.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SantaSpy 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>60</integer>
+		</dict>
+		<key>SantaSpy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>cocos2dlib.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>58</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>69838AE617CD29B300CDFFFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>69838AF317CD29B300CDFFFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>69F61B1015F2BAF30055BB4F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>69F61B3915F2BAF30055BB4F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
