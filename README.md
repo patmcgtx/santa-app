@@ -1,8 +1,10 @@
 # santa-app
 
-My first iOS app, circa 2011—an Objective-C app built with UIKit and cocos2d, long before RealityKit, SpriteKit, or Swift. 😉
+Archived code of my first iOS app, circa 2011—an Objective-C app built with UIKit and cocos2d, long before RealityKit, SpriteKit, or Swift. 😉
 
-Released as **[Where in the World is Santa Claus?](https://www.roundtripsoftware.com/app/santa/)**, this project experimented with early mobile augmented reality by compositing sensor-reactive animation over a live camera view.
+Released as **[Where in the World is Santa Claus?](https://roundtripsoftware.wordpress.com/where-in-the-world-is-santa-claus/), this project experimented with early mobile augmented reality by compositing sensor-reactive animation over a live camera view.
+
+This app is no longer on the App Store.
 
 ## Tech details
 
