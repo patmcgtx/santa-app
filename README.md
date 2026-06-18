@@ -1,10 +1,20 @@
-An augmented-reality Santa-finding app released years ago as [Where in the World is Santa Claus?](https://www.roundtripsoftware.com/app/santa/).
+# santa-app
 
-Camera view with sensor-reactive animation layered on top.  Localized into eight languages.  
+My first iOS app, circa 2011—an Objective-C app built with UIKit and cocos2d, long before RealityKit, SpriteKit, or Swift. 😉
 
-Coded in Objective-C with UIKit and cocos2d.  This was way before [RealityKit](https://developer.apple.com/augmented-reality/), [SpriteKit](https://developer.apple.com/spritekit/), or even [Swift](https://developer.apple.com/swift/). 😉
+Released as **[Where in the World is Santa Claus?](https://www.roundtripsoftware.com/app/santa/)**, this project experimented with early mobile augmented reality by compositing sensor-reactive animation over a live camera view.
 
-### Demos and screenshots
+## Tech details
+
+- **Platform:** iOS (circa 2011)
+- **Primary language:** Objective-C (~86.8%)
+- **Supporting language:** C (~13.2%)
+- **UI framework:** UIKit
+- **2D rendering/game framework:** cocos2d
+- **Core app concept:** camera feed + motion/sensor-driven animated overlay
+- **Localization:** 8 languages
+
+## Demos and screenshots
 
 [Demo video](https://youtu.be/QVSe75pNovg?si=VdaxMjjo7Rvl3Na_)
 
